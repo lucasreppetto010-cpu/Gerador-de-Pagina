@@ -18,3 +18,6 @@ Um criador de landing pages inteligente que utiliza **IA** para gerar sites comp
 - **Groq API** - Inteligência artificial para geração de conteúdo
 - **Responsive Design** - Mobile-first approach
 
+## IA
+
+![Conversor de Moedas](./assets/Readme.png)
